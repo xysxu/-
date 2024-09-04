@@ -11,7 +11,7 @@ redirect_from:
 
 ======
 * J.G. Dai and Yaosheng Xu.
-Explicit Steady-state Approximations for Parallel-server Systems. Working paper
+Explicit Steady-State Approximations for Parallel Server Systems with Heterogeneous Servers. Under Review. [Link](https://arxiv.org/abs/2406.04203)
 
 * J.G. Dai, Peter Glynn and Yaosheng Xu.
 Multi-scale heavy traffic steady-state convergence in generalized Jackson network. Under Review. [Link](https://arxiv.org/abs/2304.01499)
